@@ -1,0 +1,13 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.h3 {
+    text-align: center;
+    text-align-last: center;
+    display: flex;
+    margin: 100px;
+}
